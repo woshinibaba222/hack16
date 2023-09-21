@@ -5,6 +5,8 @@ Access the MobSF interface deployed on a system. Append "/recent_scans/" to the 
 Solution:
 It is recommended to implement access restrictions.
 Version: MobSF v3.7.8 Beta or earlier
+
+
 Example 1:
 Test URL: https://3.137.91.62/
 version：MobSF v3.7.8 Beta
